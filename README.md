@@ -4,3 +4,6 @@ https://www.figma.com/proto/t0i4tfrAvJKHlFzdmyalgn/igebra?node-id=1-2&p=f&t=brkW
 ### Summary
 
 I identified key UX issues such as cluttered navigation, unclear messaging in the hero section, weak call-to-action visibility, and lack of clear content hierarchy. I prioritized improving the navigation and hero section to make the website more user-friendly and ensure users quickly understand the platform’s value. I also simplified the product section to make the offerings easier to scan and understand. With more time, I would further enhance mobile responsiveness, add interactive elements, and refine the overall visual design for a more polished user experience.
+
+#vercel link
+https://vercel.com/bhargavarjuns-projects/my-dashboard-264/5PRG4GZkpFo6HTtykWe1Wr5wo17E
